@@ -1,1 +1,6 @@
 name: Command Practice v1
+author: Jasperd
+main: Jasperd_pmmp/Loader
+versiom: 1.0.0
+api: [3.2.3]
+description: Command From Jasperd for Learning Purposes and from teaching to other people :D
